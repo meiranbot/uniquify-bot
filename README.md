@@ -1,3 +1,5 @@
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/meiranbot/uniquify-bot)
+
 <div id="top"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
